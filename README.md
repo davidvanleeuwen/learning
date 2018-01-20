@@ -11,6 +11,7 @@ Contributions are welcome, please make an issue or create a Pull Request for sug
 - [Hacking](#hacking)
 - [Algorithms](#algorithms)
 - [Linear algebra](#linear-algebra)
+- [Functional programming](#functional-programming)
 - [Other resources](#other-resources)
 
 ---
@@ -29,9 +30,12 @@ Contributions are welcome, please make an issue or create a Pull Request for sug
 - [Immersive linear algebra](http://immersivemath.com/ila/index.html) - Linear algebra book with fully interactive figures.
 - [Computational linear algebra](http://www.fast.ai/2017/07/17/num-lin-alg/) - Online course using practical examples with python.
 
+## Functional programming
+- [Introduction to functional programming](https://ocw.tudelft.nl/courses/introduction-to-functional-programming/) - An introduction using Haskell.
+- [Functional programming](http://mooc.fi/courses/2014/clojure/) - Functional programming with Clojure course.
+
 ## Other resources
 - [Free programming books](http://breue.com/free_programming_books) - Directory of free books to learn basically every programming language.
-- [Functional programming](http://mooc.fi/courses/2014/clojure/) - Functional programming with Clojure course.
 - [The little book about OS development](http://littleosbook.github.io/) - A book on creating your own operating system.
 - [Programming design systems](https://programmingdesignsystems.com/) - A book on the foundations of graphic design.
 - [FreeCodeCamp](https://guide.freecodecamp.org/) - All kinds of free guides on lots of subjects.
