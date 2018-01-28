@@ -22,6 +22,7 @@ Contributions are welcome, please make an issue or create a Pull Request for sug
 ## Hacking
 - [Practice CTF list](http://captf.com/practice-ctf/) - Long list of CTF resources.
 - [pwnable](http://pwnable.kr/) - Very cool wargame site.
+- [Hacker101](https://www.hacker101.com/) - A free class for web security including videos and assignments.
 
 ## Algorithms
 - [100 days of algorithms](https://medium.com/100-days-of-algorithms) - A series of posts for 100 algorithms posted on [Github](https://github.com/coells/100days).
