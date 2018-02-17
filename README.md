@@ -30,6 +30,7 @@ Contributions are welcome, please make an issue or create a Pull Request for sug
 ## Linear algebra
 - [Immersive linear algebra](http://immersivemath.com/ila/index.html) - Linear algebra book with fully interactive figures.
 - [Computational linear algebra](http://www.fast.ai/2017/07/17/num-lin-alg/) - Online course using practical examples with python.
+- [Graphical linear algebra](https://graphicallinearalgebra.net/) - From matrices to monoids split out in episodes.
 
 ## Functional programming
 - [Introduction to functional programming](https://ocw.tudelft.nl/courses/introduction-to-functional-programming/) - An introduction using Haskell.
