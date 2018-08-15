@@ -35,6 +35,7 @@ Contributions are welcome, please make an issue or create a Pull Request for sug
 ## Functional programming
 - [Introduction to functional programming](https://ocw.tudelft.nl/courses/introduction-to-functional-programming/) - An introduction using Haskell.
 - [Functional programming](http://mooc.fi/courses/2014/clojure/) - Functional programming with Clojure course.
+- [Build your own Lisp](http://www.buildyourownlisp.com) - Learn C and build your own programming language.
 
 ## Other resources
 - [Free programming books](http://breue.com/free_programming_books) - Directory of free books to learn basically every programming language.
