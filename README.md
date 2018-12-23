@@ -18,6 +18,7 @@ Contributions are welcome, please make an issue or create a Pull Request for sug
 
 ## Deeplearning
 - [Fast.io](http://course.fast.ai/) - Practical Deep Learning For Coders in 7 weeks.
+- [Scrimba](https://scrimba.com/g/gneuralnetworks) - A fun and practical introduction to building neural networks with Brain.js.
 
 ## Hacking
 - [Practice CTF list](http://captf.com/practice-ctf/) - Long list of CTF resources.
