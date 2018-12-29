@@ -20,6 +20,9 @@ Contributions are welcome, please make an issue or create a Pull Request for sug
 - [Fast.io](http://course.fast.ai/) - Practical Deep Learning For Coders in 7 weeks.
 - [Scrimba](https://scrimba.com/g/gneuralnetworks) - A fun and practical introduction to building neural networks with Brain.js.
 
+## Cypto
+- [Crypto 101](https://www.crypto101.io/) - An introductory course on cryptography as PDF format.
+
 ## Hacking
 - [Practice CTF list](http://captf.com/practice-ctf/) - Long list of CTF resources.
 - [pwnable](http://pwnable.kr/) - Very cool wargame site.
