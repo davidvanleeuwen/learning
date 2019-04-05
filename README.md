@@ -46,4 +46,5 @@ Contributions are welcome, please make an issue or create a Pull Request for sug
 - [The little book about OS development](http://littleosbook.github.io/) - A book on creating your own operating system.
 - [Programming design systems](https://programmingdesignsystems.com/) - A book on the foundations of graphic design.
 - [FreeCodeCamp](https://guide.freecodecamp.org/) - All kinds of free guides on lots of subjects.
+- [Build a Simple Database](https://cstack.github.io/db_tutorial/) - Writing a sqlite clone from scratch in C
 
